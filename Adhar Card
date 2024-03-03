@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport"content="width=device-width, initial-scale =1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Adhar copy</title>
+    </head>
+    <body>
+        <div class="box">
+            <div class="leftbox">
+                <div class="header"></div>
+                    <img class="lion" src="C:\Users\Dell\OneDrive\Desktop\adhar\images\lion.png" alt="" srcset="">
+                    <img class="gov" src="C:\Users\Dell\OneDrive\Desktop\adhar\images\gov.png.jpg" alt="" srcset="">
+                <div class="bodypart">
+                <div class="pic">
+                    <img class="photo" src="C:\Users\Dell\OneDrive\Desktop\adhar\images\Tilak Bohara.jpg" alt="" srcset="">
+                </div>
+                <div class="info">
+                    <p><b>Tilak Bohara</b> <br> D.O.B:<b>03/09/2003 </b><b> (B+ve) </b><br>
+                        <b>Male</b>
+                        <br> <b>+91 9921615247</b>
+                       
+                        <div class="adhno"><h3>1234 5678 1100</h3></div>
+                    </p>
+                </div>
+                <div class="qr">
+                    <img class="bar" src="C:\Users\Dell\OneDrive\Desktop\adhar\images\qr.png" alt="" srcset="">
+                </div>
+                </div>
+                <div class="footer">
+                   <p class="para"><span style="color: tomato;">My Adhar,My Identity </span></p>
+                </div>
+            </div>
+        
+        </div>
+    </body>
+</html>
