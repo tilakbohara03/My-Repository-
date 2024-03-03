@@ -1,0 +1,108 @@
+body{
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    height: 236px;
+    width: 710px;
+  /* background:rgb(216, 212, 212);*/
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.leftbox{
+    height: 226px;
+    width: 49%;
+    background-color: rgba(197, 199, 194, 0.849);
+    margin-left: 5px;
+    border: black 1px solid;
+}
+.rightbox{
+    height: 226px;
+    width: 49%;
+    /*background-color: rgb(205, 240, 81);*/
+    margin-left: 5px;
+}
+.header{
+    /*background-color: crimson;*/
+    display: flex;
+    /*flex-direction: row;*/
+    width: 100%;
+}
+    .lion{
+    height: 33px;
+    margin-left: 25px;
+    margin-bottom: 5px;
+    }
+    .gov{
+    height: 33px;
+    margin-top: 5px;
+    margin-left: 35px;
+    margin-bottom: 5px;
+    
+    }
+    .bodypart{
+        height: 150px;
+        width: 100%;
+        display: flex;
+        flex-direction:row;
+      /*  background-color: cyan;*/
+    }
+    .pic{
+        /*background-color: darkgray;*/
+        height: 100%;
+        width: 100%;
+    }
+    .info{
+        /*background-color: rgb(94, 65, 224);*/
+        height: 100%;
+        width: 170%;
+        font-size: 12px;
+    }
+    .qr{
+       /* background-color: rgb(228, 68, 166);*/
+        height: 100%;
+        width: 77%;
+    }
+    .footer{
+        background-color: rgb(206, 240, 56);
+        width: 100%;
+        height: 27px;
+        border-top: tomato 2px solid;
+    }
+    .photo{
+        height: 100px;
+        margin-left: 10px;
+        margin-top: 5px;
+        display: flex;
+        border-radius: 10px;
+        border-color: black 1px solid;
+    }
+    .bar{
+        height: 60px;
+        width: 60px;
+        margin-left: 15%;
+        margin-top: 80px;
+        margin-right: 15%;
+        display: flex;
+        border-radius: 5px;
+    }
+    .adhno{
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        align-content: last baseline;
+        letter-spacing: 3px;
+        padding-top: 25px;
+        font-size: 15px;
+    }
+    .para{
+        text-align: center;
+        margin-top: 3px;
+
+        
+    }
